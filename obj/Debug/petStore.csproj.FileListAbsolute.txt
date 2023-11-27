@@ -1,0 +1,415 @@
+D:\TaiLieuHoc\LapTrinh(.)NET\DoAn_DotNet\Do_An\petStore\bin\Debug\petStore.exe.config
+D:\TaiLieuHoc\LapTrinh(.)NET\DoAn_DotNet\Do_An\petStore\bin\Debug\petStore.exe
+D:\TaiLieuHoc\LapTrinh(.)NET\DoAn_DotNet\Do_An\petStore\bin\Debug\petStore.pdb
+D:\TaiLieuHoc\LapTrinh(.)NET\DoAn_DotNet\Do_An\petStore\obj\Debug\petStore.Properties.Resources.resources
+D:\TaiLieuHoc\LapTrinh(.)NET\DoAn_DotNet\Do_An\petStore\obj\Debug\petStore.csproj.GenerateResource.cache
+D:\TaiLieuHoc\LapTrinh(.)NET\DoAn_DotNet\Do_An\petStore\obj\Debug\petStore.csproj.CoreCompileInputs.cache
+D:\TaiLieuHoc\LapTrinh(.)NET\DoAn_DotNet\Do_An\petStore\obj\Debug\petStore.exe
+D:\TaiLieuHoc\LapTrinh(.)NET\DoAn_DotNet\Do_An\petStore\obj\Debug\petStore.pdb
+D:\TaiLieuHoc\LapTrinh(.)NET\DoAn_DotNet\Do_An\petStore\obj\Debug\petStore.fDangNhap.resources
+D:\TaiLieuHoc\LapTrinh(.)NET\DoAn_DotNet\Do_An\petStore\obj\Debug\petStore.fQuanLyChinh.resources
+D:\TaiLieuHoc\LapTrinh(.)NET\DoAn_DotNet\Do_An\petStore\obj\Debug\petStore.FormChuongTrinh.fTaiKhoanVaNhanVien.resources
+D:\TaiLieuHoc\LapTrinh(.)NET\DoAn_DotNet\Do_An\petStore\obj\Debug\petStore.FormChuongTrinh.fAbout.resources
+D:\TaiLieuHoc\LapTrinh(.)NET\DoAn_DotNet\Do_An\petStore\obj\Debug\petStore.FormChuongTrinh.fHangHoa.resources
+D:\TaiLieuHoc\LapTrinh(.)NET\DoAn_DotNet\Do_An\petStore\obj\Debug\petStore.FormChuongTrinh.fLoaiHangHoa.resources
+D:\TaiLieuHoc\LapTrinh(.)NET\DoAn_DotNet\Do_An\petStore\obj\Debug\petStore.FormChuongTrinh.fNhaCungCap.resources
+D:\TaiLieuHoc\LapTrinh(.)NET\DoAn_DotNet\Do_An\petStore\obj\Debug\petStore.FormChuongTrinh.fKhachHang.resources
+D:\TaiLieuHoc\LapTrinh(.)NET\DoAn_DotNet\Do_An\petStore\obj\Debug\petStore.FormChuongTrinh.fShowLoaiHH.resources
+D:\TaiLieuHoc\LapTrinh(.)NET\DoAn_DotNet\Do_An\petStore\obj\Debug\petStore.FormChuongTrinh.fShowNhaCungCap.resources
+D:\TaiLieuHoc\LapTrinh(.)NET\DoAn_DotNet\Do_An\petStore\obj\Debug\petStore.FormChuongTrinh.fShowNhanVien.resources
+D:\TaiLieuHoc\LapTrinh(.)NET\DoAn_DotNet\Do_An\petStore\obj\Debug\petStore.FormChuongTrinh.fHoaDonBan.resources
+D:\TaiLieuHoc\LapTrinh(.)NET\DoAn_DotNet\Do_An\petStore\obj\Debug\petStore.Report.fInHoaDonBan.resources
+D:\TaiLieuHoc\LapTrinh(.)NET\DoAn_DotNet\Do_An\petStore\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\TaiLieuHoc\LapTrinh(.)NET\DoAn_DotNet\Do_An\petStore\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\TaiLieuHoc\LapTrinh(.)NET\DoAn_DotNet\Do_An\petStore\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\TaiLieuHoc\LapTrinh(.)NET\DoAn_DotNet\Do_An\petStore\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\TaiLieuHoc\LapTrinh(.)NET\DoAn_DotNet\Do_An\petStore\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\TaiLieuHoc\LapTrinh(.)NET\DoAn_DotNet\Do_An\petStore\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\TaiLieuHoc\LapTrinh(.)NET\DoAn_DotNet\Do_An\petStore\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\TaiLieuHoc\LapTrinh(.)NET\DoAn_DotNet\Do_An\petStore\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\TaiLieuHoc\LapTrinh(.)NET\DoAn_DotNet\Do_An\petStore\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\TaiLieuHoc\LapTrinh(.)NET\DoAn_DotNet\Do_An\petStore\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\TaiLieuHoc\LapTrinh(.)NET\DoAn_DotNet\Do_An\petStore\bin\Debug\EnvDTE.dll
+D:\TaiLieuHoc\LapTrinh(.)NET\DoAn_DotNet\Do_An\petStore\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\TaiLieuHoc\LapTrinh(.)NET\DoAn_DotNet\Do_An\petStore\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\TaiLieuHoc\LapTrinh(.)NET\DoAn_DotNet\Do_An\petStore\bin\Debug\stdole.dll
+D:\TaiLieuHoc\LapTrinh(.)NET\DoAn_DotNet\Do_An\petStore\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\TaiLieuHoc\LapTrinh(.)NET\DoAn_DotNet\Do_An\petStore\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\TaiLieuHoc\LapTrinh(.)NET\DoAn_DotNet\Do_An\petStore\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\TaiLieuHoc\LapTrinh(.)NET\DoAn_DotNet\Do_An\petStore\bin\Debug\Microsoft.MSXML.dll
+D:\TaiLieuHoc\LapTrinh(.)NET\DoAn_DotNet\Do_An\petStore\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\TaiLieuHoc\LapTrinh(.)NET\DoAn_DotNet\Do_An\petStore\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\TaiLieuHoc\LapTrinh(.)NET\DoAn_DotNet\Do_An\petStore\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\TaiLieuHoc\LapTrinh(.)NET\DoAn_DotNet\Do_An\petStore\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\TaiLieuHoc\LapTrinh(.)NET\DoAn_DotNet\Do_An\petStore\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\TaiLieuHoc\LapTrinh(.)NET\DoAn_DotNet\Do_An\petStore\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\TaiLieuHoc\LapTrinh(.)NET\DoAn_DotNet\Do_An\petStore\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\TaiLieuHoc\LapTrinh(.)NET\DoAn_DotNet\Do_An\petStore\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\TaiLieuHoc\LapTrinh(.)NET\DoAn_DotNet\Do_An\petStore\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\TaiLieuHoc\LapTrinh(.)NET\DoAn_DotNet\Do_An\petStore\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\TaiLieuHoc\LapTrinh(.)NET\DoAn_DotNet\Do_An\petStore\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\TaiLieuHoc\LapTrinh(.)NET\DoAn_DotNet\Do_An\petStore\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\TaiLieuHoc\LapTrinh(.)NET\DoAn_DotNet\Do_An\petStore\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\TaiLieuHoc\LapTrinh(.)NET\DoAn_DotNet\Do_An\petStore\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\TaiLieuHoc\LapTrinh(.)NET\DoAn_DotNet\Do_An\petStore\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\TaiLieuHoc\LapTrinh(.)NET\DoAn_DotNet\Do_An\petStore\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\TaiLieuHoc\LapTrinh(.)NET\DoAn_DotNet\Do_An\petStore\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\TaiLieuHoc\LapTrinh(.)NET\DoAn_DotNet\Do_An\petStore\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\TaiLieuHoc\LapTrinh(.)NET\DoAn_DotNet\Do_An\petStore\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\TaiLieuHoc\LapTrinh(.)NET\DoAn_DotNet\Do_An\petStore\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\TaiLieuHoc\LapTrinh(.)NET\DoAn_DotNet\Do_An\petStore\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\TaiLieuHoc\LapTrinh(.)NET\DoAn_DotNet\Do_An\petStore\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\TaiLieuHoc\LapTrinh(.)NET\DoAn_DotNet\Do_An\petStore\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\TaiLieuHoc\LapTrinh(.)NET\DoAn_DotNet\Do_An\petStore\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\TaiLieuHoc\LapTrinh(.)NET\DoAn_DotNet\Do_An\petStore\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\TaiLieuHoc\LapTrinh(.)NET\DoAn_DotNet\Do_An\petStore\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\TaiLieuHoc\LapTrinh(.)NET\DoAn_DotNet\Do_An\petStore\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\TaiLieuHoc\LapTrinh(.)NET\DoAn_DotNet\Do_An\petStore\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\TaiLieuHoc\LapTrinh(.)NET\DoAn_DotNet\Do_An\petStore\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\TaiLieuHoc\LapTrinh(.)NET\DoAn_DotNet\Do_An\petStore\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\TaiLieuHoc\LapTrinh(.)NET\DoAn_DotNet\Do_An\petStore\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\TaiLieuHoc\LapTrinh(.)NET\DoAn_DotNet\Do_An\petStore\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\TaiLieuHoc\LapTrinh(.)NET\DoAn_DotNet\Do_An\petStore\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\TaiLieuHoc\LapTrinh(.)NET\DoAn_DotNet\Do_An\petStore\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\TaiLieuHoc\LapTrinh(.)NET\DoAn_DotNet\Do_An\petStore\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\TaiLieuHoc\LapTrinh(.)NET\DoAn_DotNet\Do_An\petStore\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\TaiLieuHoc\LapTrinh(.)NET\DoAn_DotNet\Do_An\petStore\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\TaiLieuHoc\LapTrinh(.)NET\DoAn_DotNet\Do_An\petStore\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\TaiLieuHoc\LapTrinh(.)NET\DoAn_DotNet\Do_An\petStore\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\TaiLieuHoc\LapTrinh(.)NET\DoAn_DotNet\Do_An\petStore\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\TaiLieuHoc\LapTrinh(.)NET\DoAn_DotNet\Do_An\petStore\obj\Debug\petStore.csproj.CopyComplete
+D:\TaiLieuHoc\LapTrinh(.)NET\DoAn_DotNet\Do_An\petStore\obj\Debug\petStore.FormChuongTrinh.fShowHoaDonBan.resources
+D:\TaiLieuHoc\LapTrinh(.)NET\DoAn_DotNet\Do_An\petStore\obj\Debug\petStore.FormChuongTrinh.fFlash.resources
+D:\TaiLieuHoc\LapTrinh(.)NET\DoAn_DotNet\Do_An\petStore\obj\Debug\RdlCompile.cache
+D:\TaiLieuHoc\LapTrinh(.)NET\DoAn_DotNet\Do_An\petStore\obj\Debug\RdlCompile.compiled
+D:\TaiLieuHoc\LapTrinh(.)NET\DoAn_DotNet\Do_An\petStore\obj\Debug\petStore.csproj.AssemblyReference.cache
+D:\TaiLieuHoc\LapTrinh(.)NET\DoAn_DotNet\Do_An\petStore\obj\Debug\petStore.FormChuongTrinh.fShowHangHoa.resources
+E:\HocTap\2023\.Net\PETSHOP-main\Do_An\petStore\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\HocTap\2023\.Net\PETSHOP-main\Do_An\petStore\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\HocTap\2023\.Net\PETSHOP-main\Do_An\petStore\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\HocTap\2023\.Net\PETSHOP-main\Do_An\petStore\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\HocTap\2023\.Net\PETSHOP-main\Do_An\petStore\bin\Debug\petStore.exe.config
+E:\HocTap\2023\.Net\PETSHOP-main\Do_An\petStore\bin\Debug\petStore.exe
+E:\HocTap\2023\.Net\PETSHOP-main\Do_An\petStore\bin\Debug\petStore.pdb
+E:\HocTap\2023\.Net\PETSHOP-main\Do_An\petStore\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\HocTap\2023\.Net\PETSHOP-main\Do_An\petStore\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\HocTap\2023\.Net\PETSHOP-main\Do_An\petStore\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\HocTap\2023\.Net\PETSHOP-main\Do_An\petStore\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\HocTap\2023\.Net\PETSHOP-main\Do_An\petStore\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\HocTap\2023\.Net\PETSHOP-main\Do_An\petStore\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\HocTap\2023\.Net\PETSHOP-main\Do_An\petStore\bin\Debug\EnvDTE.dll
+E:\HocTap\2023\.Net\PETSHOP-main\Do_An\petStore\bin\Debug\stdole.dll
+E:\HocTap\2023\.Net\PETSHOP-main\Do_An\petStore\bin\Debug\Microsoft.MSXML.dll
+E:\HocTap\2023\.Net\PETSHOP-main\Do_An\petStore\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\HocTap\2023\.Net\PETSHOP-main\Do_An\petStore\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\HocTap\2023\.Net\PETSHOP-main\Do_An\petStore\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\HocTap\2023\.Net\PETSHOP-main\Do_An\petStore\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\HocTap\2023\.Net\PETSHOP-main\Do_An\petStore\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\HocTap\2023\.Net\PETSHOP-main\Do_An\petStore\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\HocTap\2023\.Net\PETSHOP-main\Do_An\petStore\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\HocTap\2023\.Net\PETSHOP-main\Do_An\petStore\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\HocTap\2023\.Net\PETSHOP-main\Do_An\petStore\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\HocTap\2023\.Net\PETSHOP-main\Do_An\petStore\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\HocTap\2023\.Net\PETSHOP-main\Do_An\petStore\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\HocTap\2023\.Net\PETSHOP-main\Do_An\petStore\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\HocTap\2023\.Net\PETSHOP-main\Do_An\petStore\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\HocTap\2023\.Net\PETSHOP-main\Do_An\petStore\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\HocTap\2023\.Net\PETSHOP-main\Do_An\petStore\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\HocTap\2023\.Net\PETSHOP-main\Do_An\petStore\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\HocTap\2023\.Net\PETSHOP-main\Do_An\petStore\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\HocTap\2023\.Net\PETSHOP-main\Do_An\petStore\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\HocTap\2023\.Net\PETSHOP-main\Do_An\petStore\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\HocTap\2023\.Net\PETSHOP-main\Do_An\petStore\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\HocTap\2023\.Net\PETSHOP-main\Do_An\petStore\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\HocTap\2023\.Net\PETSHOP-main\Do_An\petStore\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\HocTap\2023\.Net\PETSHOP-main\Do_An\petStore\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\HocTap\2023\.Net\PETSHOP-main\Do_An\petStore\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\HocTap\2023\.Net\PETSHOP-main\Do_An\petStore\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\HocTap\2023\.Net\PETSHOP-main\Do_An\petStore\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\HocTap\2023\.Net\PETSHOP-main\Do_An\petStore\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\HocTap\2023\.Net\PETSHOP-main\Do_An\petStore\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\HocTap\2023\.Net\PETSHOP-main\Do_An\petStore\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\HocTap\2023\.Net\PETSHOP-main\Do_An\petStore\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\HocTap\2023\.Net\PETSHOP-main\Do_An\petStore\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\HocTap\2023\.Net\PETSHOP-main\Do_An\petStore\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\HocTap\2023\.Net\PETSHOP-main\Do_An\petStore\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\HocTap\2023\.Net\PETSHOP-main\Do_An\petStore\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\HocTap\2023\.Net\PETSHOP-main\Do_An\petStore\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\HocTap\2023\.Net\PETSHOP-main\Do_An\petStore\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\HocTap\2023\.Net\PETSHOP-main\Do_An\petStore\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\HocTap\2023\.Net\PETSHOP-main\Do_An\petStore\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\HocTap\2023\.Net\PETSHOP-main\Do_An\petStore\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\HocTap\2023\.Net\PETSHOP-main\Do_An\petStore\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\HocTap\2023\.Net\PETSHOP-main\Do_An\petStore\obj\Debug\petStore.csproj.AssemblyReference.cache
+E:\HocTap\2023\.Net\PETSHOP-main\Do_An\petStore\obj\Debug\petStore.FormChuongTrinh.fAbout.resources
+E:\HocTap\2023\.Net\PETSHOP-main\Do_An\petStore\obj\Debug\petStore.fDangNhap.resources
+E:\HocTap\2023\.Net\PETSHOP-main\Do_An\petStore\obj\Debug\petStore.FormChuongTrinh.fFlash.resources
+E:\HocTap\2023\.Net\PETSHOP-main\Do_An\petStore\obj\Debug\petStore.FormChuongTrinh.fHangHoa.resources
+E:\HocTap\2023\.Net\PETSHOP-main\Do_An\petStore\obj\Debug\petStore.FormChuongTrinh.fHoaDonBan.resources
+E:\HocTap\2023\.Net\PETSHOP-main\Do_An\petStore\obj\Debug\petStore.FormChuongTrinh.fKhachHang.resources
+E:\HocTap\2023\.Net\PETSHOP-main\Do_An\petStore\obj\Debug\petStore.FormChuongTrinh.fLoaiHangHoa.resources
+E:\HocTap\2023\.Net\PETSHOP-main\Do_An\petStore\obj\Debug\petStore.FormChuongTrinh.fNhaCungCap.resources
+E:\HocTap\2023\.Net\PETSHOP-main\Do_An\petStore\obj\Debug\petStore.fQuanLyChinh.resources
+E:\HocTap\2023\.Net\PETSHOP-main\Do_An\petStore\obj\Debug\petStore.FormChuongTrinh.fShowHangHoa.resources
+E:\HocTap\2023\.Net\PETSHOP-main\Do_An\petStore\obj\Debug\petStore.FormChuongTrinh.fShowLoaiHH.resources
+E:\HocTap\2023\.Net\PETSHOP-main\Do_An\petStore\obj\Debug\petStore.FormChuongTrinh.fShowNhaCungCap.resources
+E:\HocTap\2023\.Net\PETSHOP-main\Do_An\petStore\obj\Debug\petStore.FormChuongTrinh.fShowNhanVien.resources
+E:\HocTap\2023\.Net\PETSHOP-main\Do_An\petStore\obj\Debug\petStore.FormChuongTrinh.fTaiKhoanVaNhanVien.resources
+E:\HocTap\2023\.Net\PETSHOP-main\Do_An\petStore\obj\Debug\petStore.FormChuongTrinh.fShowHoaDonBan.resources
+E:\HocTap\2023\.Net\PETSHOP-main\Do_An\petStore\obj\Debug\petStore.Properties.Resources.resources
+E:\HocTap\2023\.Net\PETSHOP-main\Do_An\petStore\obj\Debug\petStore.Report.fInHoaDonBan.resources
+E:\HocTap\2023\.Net\PETSHOP-main\Do_An\petStore\obj\Debug\petStore.csproj.GenerateResource.cache
+E:\HocTap\2023\.Net\PETSHOP-main\Do_An\petStore\obj\Debug\petStore.csproj.CoreCompileInputs.cache
+E:\HocTap\2023\.Net\PETSHOP-main\Do_An\petStore\obj\Debug\petStore.csproj.CopyComplete
+E:\HocTap\2023\.Net\PETSHOP-main\Do_An\petStore\obj\Debug\petStore.exe
+E:\HocTap\2023\.Net\PETSHOP-main\Do_An\petStore\obj\Debug\petStore.pdb
+D:\PETSHOP-main\PETSHOP-main\Do_An\petStore\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\PETSHOP-main\PETSHOP-main\Do_An\petStore\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\PETSHOP-main\PETSHOP-main\Do_An\petStore\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\PETSHOP-main\PETSHOP-main\Do_An\petStore\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\PETSHOP-main\PETSHOP-main\Do_An\petStore\bin\Debug\petStore.exe.config
+D:\PETSHOP-main\PETSHOP-main\Do_An\petStore\bin\Debug\petStore.exe
+D:\PETSHOP-main\PETSHOP-main\Do_An\petStore\bin\Debug\petStore.pdb
+D:\PETSHOP-main\PETSHOP-main\Do_An\petStore\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\PETSHOP-main\PETSHOP-main\Do_An\petStore\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\PETSHOP-main\PETSHOP-main\Do_An\petStore\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\PETSHOP-main\PETSHOP-main\Do_An\petStore\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\PETSHOP-main\PETSHOP-main\Do_An\petStore\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\PETSHOP-main\PETSHOP-main\Do_An\petStore\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\PETSHOP-main\PETSHOP-main\Do_An\petStore\bin\Debug\EnvDTE.dll
+D:\PETSHOP-main\PETSHOP-main\Do_An\petStore\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\PETSHOP-main\PETSHOP-main\Do_An\petStore\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\PETSHOP-main\PETSHOP-main\Do_An\petStore\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\PETSHOP-main\PETSHOP-main\Do_An\petStore\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\PETSHOP-main\PETSHOP-main\Do_An\petStore\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\PETSHOP-main\PETSHOP-main\Do_An\petStore\bin\Debug\Microsoft.MSXML.dll
+D:\PETSHOP-main\PETSHOP-main\Do_An\petStore\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\PETSHOP-main\PETSHOP-main\Do_An\petStore\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\PETSHOP-main\PETSHOP-main\Do_An\petStore\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\PETSHOP-main\PETSHOP-main\Do_An\petStore\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\PETSHOP-main\PETSHOP-main\Do_An\petStore\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\PETSHOP-main\PETSHOP-main\Do_An\petStore\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\PETSHOP-main\PETSHOP-main\Do_An\petStore\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\PETSHOP-main\PETSHOP-main\Do_An\petStore\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\PETSHOP-main\PETSHOP-main\Do_An\petStore\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\PETSHOP-main\PETSHOP-main\Do_An\petStore\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\PETSHOP-main\PETSHOP-main\Do_An\petStore\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PETSHOP-main\PETSHOP-main\Do_An\petStore\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PETSHOP-main\PETSHOP-main\Do_An\petStore\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PETSHOP-main\PETSHOP-main\Do_An\petStore\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PETSHOP-main\PETSHOP-main\Do_An\petStore\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PETSHOP-main\PETSHOP-main\Do_An\petStore\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PETSHOP-main\PETSHOP-main\Do_An\petStore\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PETSHOP-main\PETSHOP-main\Do_An\petStore\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PETSHOP-main\PETSHOP-main\Do_An\petStore\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PETSHOP-main\PETSHOP-main\Do_An\petStore\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PETSHOP-main\PETSHOP-main\Do_An\petStore\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\PETSHOP-main\PETSHOP-main\Do_An\petStore\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\PETSHOP-main\PETSHOP-main\Do_An\petStore\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\PETSHOP-main\PETSHOP-main\Do_An\petStore\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\PETSHOP-main\PETSHOP-main\Do_An\petStore\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\PETSHOP-main\PETSHOP-main\Do_An\petStore\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\PETSHOP-main\PETSHOP-main\Do_An\petStore\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\PETSHOP-main\PETSHOP-main\Do_An\petStore\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\PETSHOP-main\PETSHOP-main\Do_An\petStore\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\PETSHOP-main\PETSHOP-main\Do_An\petStore\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\PETSHOP-main\PETSHOP-main\Do_An\petStore\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PETSHOP-main\PETSHOP-main\Do_An\petStore\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PETSHOP-main\PETSHOP-main\Do_An\petStore\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PETSHOP-main\PETSHOP-main\Do_An\petStore\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PETSHOP-main\PETSHOP-main\Do_An\petStore\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PETSHOP-main\PETSHOP-main\Do_An\petStore\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PETSHOP-main\PETSHOP-main\Do_An\petStore\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PETSHOP-main\PETSHOP-main\Do_An\petStore\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PETSHOP-main\PETSHOP-main\Do_An\petStore\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PETSHOP-main\PETSHOP-main\Do_An\petStore\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PETSHOP-main\PETSHOP-main\Do_An\petStore\obj\Debug\petStore.csproj.AssemblyReference.cache
+D:\PETSHOP-main\PETSHOP-main\Do_An\petStore\obj\Debug\petStore.FormChuongTrinh.fAbout.resources
+D:\PETSHOP-main\PETSHOP-main\Do_An\petStore\obj\Debug\petStore.fDangNhap.resources
+D:\PETSHOP-main\PETSHOP-main\Do_An\petStore\obj\Debug\petStore.FormChuongTrinh.fFlash.resources
+D:\PETSHOP-main\PETSHOP-main\Do_An\petStore\obj\Debug\petStore.FormChuongTrinh.fHangHoa.resources
+D:\PETSHOP-main\PETSHOP-main\Do_An\petStore\obj\Debug\petStore.FormChuongTrinh.fHoaDonBan.resources
+D:\PETSHOP-main\PETSHOP-main\Do_An\petStore\obj\Debug\petStore.FormChuongTrinh.fKhachHang.resources
+D:\PETSHOP-main\PETSHOP-main\Do_An\petStore\obj\Debug\petStore.FormChuongTrinh.fLoaiHangHoa.resources
+D:\PETSHOP-main\PETSHOP-main\Do_An\petStore\obj\Debug\petStore.FormChuongTrinh.fNhaCungCap.resources
+D:\PETSHOP-main\PETSHOP-main\Do_An\petStore\obj\Debug\petStore.fQuanLyChinh.resources
+D:\PETSHOP-main\PETSHOP-main\Do_An\petStore\obj\Debug\petStore.FormChuongTrinh.fShowHangHoa.resources
+D:\PETSHOP-main\PETSHOP-main\Do_An\petStore\obj\Debug\petStore.FormChuongTrinh.fShowLoaiHH.resources
+D:\PETSHOP-main\PETSHOP-main\Do_An\petStore\obj\Debug\petStore.FormChuongTrinh.fShowNhaCungCap.resources
+D:\PETSHOP-main\PETSHOP-main\Do_An\petStore\obj\Debug\petStore.FormChuongTrinh.fShowNhanVien.resources
+D:\PETSHOP-main\PETSHOP-main\Do_An\petStore\obj\Debug\petStore.FormChuongTrinh.fTaiKhoanVaNhanVien.resources
+D:\PETSHOP-main\PETSHOP-main\Do_An\petStore\obj\Debug\petStore.FormChuongTrinh.fShowHoaDonBan.resources
+D:\PETSHOP-main\PETSHOP-main\Do_An\petStore\obj\Debug\petStore.Properties.Resources.resources
+D:\PETSHOP-main\PETSHOP-main\Do_An\petStore\obj\Debug\petStore.Report.fInHoaDonBan.resources
+D:\PETSHOP-main\PETSHOP-main\Do_An\petStore\obj\Debug\petStore.csproj.GenerateResource.cache
+D:\PETSHOP-main\PETSHOP-main\Do_An\petStore\obj\Debug\petStore.csproj.CoreCompileInputs.cache
+D:\PETSHOP-main\PETSHOP-main\Do_An\petStore\obj\Debug\petStore.csproj.CopyComplete
+D:\PETSHOP-main\PETSHOP-main\Do_An\petStore\obj\Debug\petStore.exe
+D:\PETSHOP-main\PETSHOP-main\Do_An\petStore\obj\Debug\petStore.pdb
+D:\Visual studio Tím\DoAn\DoAn\Do_An\petStore\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Visual studio Tím\DoAn\DoAn\Do_An\petStore\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Visual studio Tím\DoAn\DoAn\Do_An\petStore\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Visual studio Tím\DoAn\DoAn\Do_An\petStore\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Visual studio Tím\DoAn\DoAn\Do_An\petStore\bin\Debug\petStore.exe.config
+D:\Visual studio Tím\DoAn\DoAn\Do_An\petStore\bin\Debug\petStore.exe
+D:\Visual studio Tím\DoAn\DoAn\Do_An\petStore\bin\Debug\petStore.pdb
+D:\Visual studio Tím\DoAn\DoAn\Do_An\petStore\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Visual studio Tím\DoAn\DoAn\Do_An\petStore\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Visual studio Tím\DoAn\DoAn\Do_An\petStore\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Visual studio Tím\DoAn\DoAn\Do_An\petStore\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Visual studio Tím\DoAn\DoAn\Do_An\petStore\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Visual studio Tím\DoAn\DoAn\Do_An\petStore\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Visual studio Tím\DoAn\DoAn\Do_An\petStore\bin\Debug\EnvDTE.dll
+D:\Visual studio Tím\DoAn\DoAn\Do_An\petStore\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Visual studio Tím\DoAn\DoAn\Do_An\petStore\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Visual studio Tím\DoAn\DoAn\Do_An\petStore\bin\Debug\stdole.dll
+D:\Visual studio Tím\DoAn\DoAn\Do_An\petStore\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Visual studio Tím\DoAn\DoAn\Do_An\petStore\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Visual studio Tím\DoAn\DoAn\Do_An\petStore\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Visual studio Tím\DoAn\DoAn\Do_An\petStore\bin\Debug\Microsoft.MSXML.dll
+D:\Visual studio Tím\DoAn\DoAn\Do_An\petStore\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Visual studio Tím\DoAn\DoAn\Do_An\petStore\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Visual studio Tím\DoAn\DoAn\Do_An\petStore\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Visual studio Tím\DoAn\DoAn\Do_An\petStore\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Visual studio Tím\DoAn\DoAn\Do_An\petStore\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Visual studio Tím\DoAn\DoAn\Do_An\petStore\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Visual studio Tím\DoAn\DoAn\Do_An\petStore\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Visual studio Tím\DoAn\DoAn\Do_An\petStore\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Visual studio Tím\DoAn\DoAn\Do_An\petStore\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Visual studio Tím\DoAn\DoAn\Do_An\petStore\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Visual studio Tím\DoAn\DoAn\Do_An\petStore\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Visual studio Tím\DoAn\DoAn\Do_An\petStore\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Visual studio Tím\DoAn\DoAn\Do_An\petStore\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Visual studio Tím\DoAn\DoAn\Do_An\petStore\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Visual studio Tím\DoAn\DoAn\Do_An\petStore\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Visual studio Tím\DoAn\DoAn\Do_An\petStore\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Visual studio Tím\DoAn\DoAn\Do_An\petStore\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Visual studio Tím\DoAn\DoAn\Do_An\petStore\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Visual studio Tím\DoAn\DoAn\Do_An\petStore\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Visual studio Tím\DoAn\DoAn\Do_An\petStore\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Visual studio Tím\DoAn\DoAn\Do_An\petStore\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Visual studio Tím\DoAn\DoAn\Do_An\petStore\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Visual studio Tím\DoAn\DoAn\Do_An\petStore\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Visual studio Tím\DoAn\DoAn\Do_An\petStore\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Visual studio Tím\DoAn\DoAn\Do_An\petStore\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Visual studio Tím\DoAn\DoAn\Do_An\petStore\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Visual studio Tím\DoAn\DoAn\Do_An\petStore\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Visual studio Tím\DoAn\DoAn\Do_An\petStore\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Visual studio Tím\DoAn\DoAn\Do_An\petStore\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Visual studio Tím\DoAn\DoAn\Do_An\petStore\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Visual studio Tím\DoAn\DoAn\Do_An\petStore\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Visual studio Tím\DoAn\DoAn\Do_An\petStore\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Visual studio Tím\DoAn\DoAn\Do_An\petStore\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Visual studio Tím\DoAn\DoAn\Do_An\petStore\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Visual studio Tím\DoAn\DoAn\Do_An\petStore\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Visual studio Tím\DoAn\DoAn\Do_An\petStore\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Visual studio Tím\DoAn\DoAn\Do_An\petStore\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Visual studio Tím\DoAn\DoAn\Do_An\petStore\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Visual studio Tím\DoAn\DoAn\Do_An\petStore\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Visual studio Tím\DoAn\DoAn\Do_An\petStore\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Visual studio Tím\DoAn\DoAn\Do_An\petStore\obj\Debug\petStore.csproj.AssemblyReference.cache
+D:\Visual studio Tím\DoAn\DoAn\Do_An\petStore\obj\Debug\petStore.FormChuongTrinh.fAbout.resources
+D:\Visual studio Tím\DoAn\DoAn\Do_An\petStore\obj\Debug\petStore.fDangNhap.resources
+D:\Visual studio Tím\DoAn\DoAn\Do_An\petStore\obj\Debug\petStore.FormChuongTrinh.fFlash.resources
+D:\Visual studio Tím\DoAn\DoAn\Do_An\petStore\obj\Debug\petStore.FormChuongTrinh.fHangHoa.resources
+D:\Visual studio Tím\DoAn\DoAn\Do_An\petStore\obj\Debug\petStore.FormChuongTrinh.fHoaDonBan.resources
+D:\Visual studio Tím\DoAn\DoAn\Do_An\petStore\obj\Debug\petStore.FormChuongTrinh.fKhachHang.resources
+D:\Visual studio Tím\DoAn\DoAn\Do_An\petStore\obj\Debug\petStore.FormChuongTrinh.fLoaiHangHoa.resources
+D:\Visual studio Tím\DoAn\DoAn\Do_An\petStore\obj\Debug\petStore.FormChuongTrinh.fNhaCungCap.resources
+D:\Visual studio Tím\DoAn\DoAn\Do_An\petStore\obj\Debug\petStore.fQuanLyChinh.resources
+D:\Visual studio Tím\DoAn\DoAn\Do_An\petStore\obj\Debug\petStore.FormChuongTrinh.fShowHangHoa.resources
+D:\Visual studio Tím\DoAn\DoAn\Do_An\petStore\obj\Debug\petStore.FormChuongTrinh.fShowLoaiHH.resources
+D:\Visual studio Tím\DoAn\DoAn\Do_An\petStore\obj\Debug\petStore.FormChuongTrinh.fShowNhaCungCap.resources
+D:\Visual studio Tím\DoAn\DoAn\Do_An\petStore\obj\Debug\petStore.FormChuongTrinh.fShowNhanVien.resources
+D:\Visual studio Tím\DoAn\DoAn\Do_An\petStore\obj\Debug\petStore.FormChuongTrinh.fTaiKhoanVaNhanVien.resources
+D:\Visual studio Tím\DoAn\DoAn\Do_An\petStore\obj\Debug\petStore.FormChuongTrinh.fShowHoaDonBan.resources
+D:\Visual studio Tím\DoAn\DoAn\Do_An\petStore\obj\Debug\petStore.Properties.Resources.resources
+D:\Visual studio Tím\DoAn\DoAn\Do_An\petStore\obj\Debug\petStore.Report.fInHoaDonBan.resources
+D:\Visual studio Tím\DoAn\DoAn\Do_An\petStore\obj\Debug\petStore.csproj.GenerateResource.cache
+D:\Visual studio Tím\DoAn\DoAn\Do_An\petStore\obj\Debug\petStore.csproj.CoreCompileInputs.cache
+D:\Visual studio Tím\DoAn\DoAn\Do_An\petStore\obj\Debug\petStore.csproj.CopyComplete
+D:\Visual studio Tím\DoAn\DoAn\Do_An\petStore\obj\Debug\petStore.exe
+D:\Visual studio Tím\DoAn\DoAn\Do_An\petStore\obj\Debug\petStore.pdb
+D:\Visual studio Tím\DoAnC#\DoAn\Do_An\petStore\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Visual studio Tím\DoAnC#\DoAn\Do_An\petStore\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Visual studio Tím\DoAnC#\DoAn\Do_An\petStore\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Visual studio Tím\DoAnC#\DoAn\Do_An\petStore\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Visual studio Tím\DoAnC#\DoAn\Do_An\petStore\bin\Debug\petStore.exe.config
+D:\Visual studio Tím\DoAnC#\DoAn\Do_An\petStore\bin\Debug\petStore.exe
+D:\Visual studio Tím\DoAnC#\DoAn\Do_An\petStore\bin\Debug\petStore.pdb
+D:\Visual studio Tím\DoAnC#\DoAn\Do_An\petStore\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Visual studio Tím\DoAnC#\DoAn\Do_An\petStore\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Visual studio Tím\DoAnC#\DoAn\Do_An\petStore\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Visual studio Tím\DoAnC#\DoAn\Do_An\petStore\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Visual studio Tím\DoAnC#\DoAn\Do_An\petStore\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Visual studio Tím\DoAnC#\DoAn\Do_An\petStore\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Visual studio Tím\DoAnC#\DoAn\Do_An\petStore\bin\Debug\EnvDTE.dll
+D:\Visual studio Tím\DoAnC#\DoAn\Do_An\petStore\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Visual studio Tím\DoAnC#\DoAn\Do_An\petStore\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Visual studio Tím\DoAnC#\DoAn\Do_An\petStore\bin\Debug\stdole.dll
+D:\Visual studio Tím\DoAnC#\DoAn\Do_An\petStore\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Visual studio Tím\DoAnC#\DoAn\Do_An\petStore\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Visual studio Tím\DoAnC#\DoAn\Do_An\petStore\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Visual studio Tím\DoAnC#\DoAn\Do_An\petStore\bin\Debug\Microsoft.MSXML.dll
+D:\Visual studio Tím\DoAnC#\DoAn\Do_An\petStore\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Visual studio Tím\DoAnC#\DoAn\Do_An\petStore\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Visual studio Tím\DoAnC#\DoAn\Do_An\petStore\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Visual studio Tím\DoAnC#\DoAn\Do_An\petStore\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Visual studio Tím\DoAnC#\DoAn\Do_An\petStore\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Visual studio Tím\DoAnC#\DoAn\Do_An\petStore\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Visual studio Tím\DoAnC#\DoAn\Do_An\petStore\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Visual studio Tím\DoAnC#\DoAn\Do_An\petStore\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Visual studio Tím\DoAnC#\DoAn\Do_An\petStore\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Visual studio Tím\DoAnC#\DoAn\Do_An\petStore\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Visual studio Tím\DoAnC#\DoAn\Do_An\petStore\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Visual studio Tím\DoAnC#\DoAn\Do_An\petStore\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Visual studio Tím\DoAnC#\DoAn\Do_An\petStore\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Visual studio Tím\DoAnC#\DoAn\Do_An\petStore\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Visual studio Tím\DoAnC#\DoAn\Do_An\petStore\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Visual studio Tím\DoAnC#\DoAn\Do_An\petStore\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Visual studio Tím\DoAnC#\DoAn\Do_An\petStore\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Visual studio Tím\DoAnC#\DoAn\Do_An\petStore\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Visual studio Tím\DoAnC#\DoAn\Do_An\petStore\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Visual studio Tím\DoAnC#\DoAn\Do_An\petStore\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Visual studio Tím\DoAnC#\DoAn\Do_An\petStore\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Visual studio Tím\DoAnC#\DoAn\Do_An\petStore\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Visual studio Tím\DoAnC#\DoAn\Do_An\petStore\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Visual studio Tím\DoAnC#\DoAn\Do_An\petStore\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Visual studio Tím\DoAnC#\DoAn\Do_An\petStore\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Visual studio Tím\DoAnC#\DoAn\Do_An\petStore\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Visual studio Tím\DoAnC#\DoAn\Do_An\petStore\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Visual studio Tím\DoAnC#\DoAn\Do_An\petStore\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Visual studio Tím\DoAnC#\DoAn\Do_An\petStore\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Visual studio Tím\DoAnC#\DoAn\Do_An\petStore\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Visual studio Tím\DoAnC#\DoAn\Do_An\petStore\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Visual studio Tím\DoAnC#\DoAn\Do_An\petStore\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Visual studio Tím\DoAnC#\DoAn\Do_An\petStore\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Visual studio Tím\DoAnC#\DoAn\Do_An\petStore\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Visual studio Tím\DoAnC#\DoAn\Do_An\petStore\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Visual studio Tím\DoAnC#\DoAn\Do_An\petStore\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Visual studio Tím\DoAnC#\DoAn\Do_An\petStore\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Visual studio Tím\DoAnC#\DoAn\Do_An\petStore\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Visual studio Tím\DoAnC#\DoAn\Do_An\petStore\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Visual studio Tím\DoAnC#\DoAn\Do_An\petStore\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Visual studio Tím\DoAnC#\DoAn\Do_An\petStore\obj\Debug\petStore.csproj.AssemblyReference.cache
+D:\Visual studio Tím\DoAnC#\DoAn\Do_An\petStore\obj\Debug\petStore.fDangNhap.resources
+D:\Visual studio Tím\DoAnC#\DoAn\Do_An\petStore\obj\Debug\petStore.FormChuongTrinh.fFlash.resources
+D:\Visual studio Tím\DoAnC#\DoAn\Do_An\petStore\obj\Debug\petStore.FormChuongTrinh.fHangHoa.resources
+D:\Visual studio Tím\DoAnC#\DoAn\Do_An\petStore\obj\Debug\petStore.FormChuongTrinh.fHoaDonBan.resources
+D:\Visual studio Tím\DoAnC#\DoAn\Do_An\petStore\obj\Debug\petStore.FormChuongTrinh.fKhachHang.resources
+D:\Visual studio Tím\DoAnC#\DoAn\Do_An\petStore\obj\Debug\petStore.FormChuongTrinh.fLoaiHangHoa.resources
+D:\Visual studio Tím\DoAnC#\DoAn\Do_An\petStore\obj\Debug\petStore.FormChuongTrinh.fNhaCungCap.resources
+D:\Visual studio Tím\DoAnC#\DoAn\Do_An\petStore\obj\Debug\petStore.fQuanLyChinh.resources
+D:\Visual studio Tím\DoAnC#\DoAn\Do_An\petStore\obj\Debug\petStore.FormChuongTrinh.fShowHangHoa.resources
+D:\Visual studio Tím\DoAnC#\DoAn\Do_An\petStore\obj\Debug\petStore.FormChuongTrinh.fShowLoaiHH.resources
+D:\Visual studio Tím\DoAnC#\DoAn\Do_An\petStore\obj\Debug\petStore.FormChuongTrinh.fShowNhaCungCap.resources
+D:\Visual studio Tím\DoAnC#\DoAn\Do_An\petStore\obj\Debug\petStore.FormChuongTrinh.fShowNhanVien.resources
+D:\Visual studio Tím\DoAnC#\DoAn\Do_An\petStore\obj\Debug\petStore.FormChuongTrinh.fTaiKhoanVaNhanVien.resources
+D:\Visual studio Tím\DoAnC#\DoAn\Do_An\petStore\obj\Debug\petStore.FormChuongTrinh.fShowHoaDonBan.resources
+D:\Visual studio Tím\DoAnC#\DoAn\Do_An\petStore\obj\Debug\petStore.Properties.Resources.resources
+D:\Visual studio Tím\DoAnC#\DoAn\Do_An\petStore\obj\Debug\petStore.Report.fInHoaDonBan.resources
+D:\Visual studio Tím\DoAnC#\DoAn\Do_An\petStore\obj\Debug\petStore.csproj.GenerateResource.cache
+D:\Visual studio Tím\DoAnC#\DoAn\Do_An\petStore\obj\Debug\petStore.csproj.CoreCompileInputs.cache
+D:\Visual studio Tím\DoAnC#\DoAn\Do_An\petStore\obj\Debug\petStore.csproj.CopyComplete
+D:\Visual studio Tím\DoAnC#\DoAn\Do_An\petStore\obj\Debug\petStore.exe
+D:\Visual studio Tím\DoAnC#\DoAn\Do_An\petStore\obj\Debug\petStore.pdb
